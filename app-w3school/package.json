@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "New Node JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Dilip Bhattarai",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "nodemailer": "^4.6.4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "The tutorial walkthrough of nodejs udemy (andrew Mead)",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "express": "^4.14.0",
+    "express-vue": "^5.6.2",
+    "formidable": "^1.2.1",
+    "hbs": "^4.0.0",
+    "lodash": "^4.17.10",
+    "nodemailer": "^4.6.4",
+    "request": "^2.73.0",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dilip Bhattarai",
+  "license": "ISC"
+}
